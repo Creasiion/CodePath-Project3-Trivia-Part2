@@ -115,7 +115,6 @@ class TriviaViewController: UIViewController {
       currQuestionIndex = 0
       numCorrectQuestions = 0
       fetchTriviaQuestions()
-      updateQuestion(withQuestionIndex: currQuestionIndex)
     }
     alertController.addAction(resetAction)
     present(alertController, animated: true, completion: nil)
