@@ -25,13 +25,13 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-[Guide]](https://www.loom.com/share/2bd9c1ce092a4ecb9454a2054c8e673f?sid=18876e02-c08b-45cd-9e6f-181607062226)
+[Guide]](https://www.loom.com/share/b9d0660d16954eb28c51146632f597b4?sid=0ae82cd3-ff14-4402-aadd-86f0b07b044b)
 ## Notes
 
 Describe any challenges encountered while building the app.
 
 - Currently the app cannot display the questions, but everything else. This only happens when simulating on my personal device, and was perfectly fine with simulation.
-- When starting over again, a question is loaded and then quickly replaced. I don't know how to fix that yet!!
+- I hope to implement this once I update my own Trivia version! A thank you to Ashley Hendrata for offering me help on such short notice!
 
 
 ## License
