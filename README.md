@@ -10,7 +10,7 @@ Time spent: **6** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User can view and answer at least 5 trivia questions.
+- [x] User can view and answer at least 5 trivia questions.
 - [x] App retrieves question data from the Open Trivia Database API.
 - [x] Fetch a different set of questions if the user indicates they would like to reset the game.
 - [x] Users can see score after submitting all questions.
@@ -25,14 +25,14 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4)
-
+[Guide]](https://www.loom.com/share/2bd9c1ce092a4ecb9454a2054c8e673f?sid=18876e02-c08b-45cd-9e6f-181607062226)
 ## Notes
 
 Describe any challenges encountered while building the app.
-Currently the app cannot display the questions, but everything else. This will be updated shortly.
+
+- Currently the app cannot display the questions, but everything else. This only happens when simulating on my personal device, and was perfectly fine with simulation.
+- When starting over again, a question is loaded and then quickly replaced. I don't know how to fix that yet!!
+
 
 ## License
 
